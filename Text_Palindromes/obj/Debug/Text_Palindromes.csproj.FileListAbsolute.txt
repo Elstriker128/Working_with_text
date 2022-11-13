@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\bin\Debug\Text_Palindromes.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\bin\Debug\Text_Palindromes.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\bin\Debug\Text_Palindromes.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\obj\Debug\Text_Palindromes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\obj\Debug\Text_Palindromes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\obj\Debug\Text_Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\obj\Debug\Text_Palindromes.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Palindromes\obj\Debug\Text_Palindromes.pdb

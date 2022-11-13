@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\bin\Debug\Text_Seperation_Regex.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\bin\Debug\Text_Seperation_Regex.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\bin\Debug\Text_Seperation_Regex.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\obj\Debug\Text_Seperation_Regex.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\obj\Debug\Text_Seperation_Regex.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\obj\Debug\Text_Seperation_Regex.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\obj\Debug\Text_Seperation_Regex.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Seperation_Regex\obj\Debug\Text_Seperation_Regex.pdb

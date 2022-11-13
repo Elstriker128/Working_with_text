@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\bin\Debug\Text_Line_Deletion.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\bin\Debug\Text_Line_Deletion.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\bin\Debug\Text_Line_Deletion.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\obj\Debug\Text_Line_Deletion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\obj\Debug\Text_Line_Deletion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\obj\Debug\Text_Line_Deletion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\obj\Debug\Text_Line_Deletion.exe
+C:\Users\User\OneDrive\Desktop\VSP\Text_Line_Deletion\obj\Debug\Text_Line_Deletion.pdb
