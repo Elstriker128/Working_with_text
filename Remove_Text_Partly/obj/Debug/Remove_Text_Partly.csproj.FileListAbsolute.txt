@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\bin\Debug\Remove_Text_Partly.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\bin\Debug\Remove_Text_Partly.exe
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\bin\Debug\Remove_Text_Partly.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.exe
+C:\Users\User\OneDrive\Desktop\VSP\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.pdb
+C:\Users\User\Downloads\Remove_Text_Partly\bin\Debug\Remove_Text_Partly.exe.config
+C:\Users\User\Downloads\Remove_Text_Partly\bin\Debug\Remove_Text_Partly.exe
+C:\Users\User\Downloads\Remove_Text_Partly\bin\Debug\Remove_Text_Partly.pdb
+C:\Users\User\Downloads\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.exe
+C:\Users\User\Downloads\Remove_Text_Partly\obj\Debug\Remove_Text_Partly.pdb
