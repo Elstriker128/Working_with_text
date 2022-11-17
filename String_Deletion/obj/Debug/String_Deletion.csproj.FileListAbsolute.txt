@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\obj\Debug\String_Deletion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\obj\Debug\String_Deletion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\obj\Debug\String_Deletion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\bin\Debug\String_Deletion.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\bin\Debug\String_Deletion.exe
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\bin\Debug\String_Deletion.pdb
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\obj\Debug\String_Deletion.exe
+C:\Users\User\OneDrive\Desktop\VSP\String_Deletion\obj\Debug\String_Deletion.pdb
