@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\bin\Debug\Analysis_Text_File_Creation.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\bin\Debug\Analysis_Text_File_Creation.exe
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\bin\Debug\Analysis_Text_File_Creation.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\obj\Debug\Analysis_Text_File_Creation.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\obj\Debug\Analysis_Text_File_Creation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\obj\Debug\Analysis_Text_File_Creation.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\obj\Debug\Analysis_Text_File_Creation.exe
+C:\Users\User\OneDrive\Desktop\VSP\Analysis_Text_File_Creation\obj\Debug\Analysis_Text_File_Creation.pdb
